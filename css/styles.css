@@ -1,0 +1,130 @@
+body {
+margin: 0;
+text-align: center;
+font-family: fantasy;
+text-align: center;
+color: #40514E;
+}
+h1 {
+  color: green;
+  margin-top: 0;
+  top: 50px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 90px;
+  margin: 50 auto 0 auto;
+}
+h2{
+  color: #66bfbf;
+}
+h3{
+font-family: sans-serif;
+color: #66bfbf;
+}
+p{
+  line-height: 2;
+}
+hr{
+border: dotted #eaf6f6 6px;
+border-bottom: none;
+width: 4%
+}
+a{
+  color:#11999e;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.web-font{
+  color: #66bfbf;
+  font-size: 40px;
+  font-weight: normal;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+.top-container {
+position: relative;
+padding-top: 100px;
+padding-bottom: 100px;
+background-color: #e4f9f4;
+}
+.mid-container {
+}
+.bottom-container {
+  margin-top: 50px;
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 30px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 400px;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.chilli-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.my-img{
+  width: 15%;
+  margin: 30px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 40px;
+}
+.skills{
+  padding-top: 50px;
+}
+.btn {
+
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #1199ee);
+  background-image: -moz-linear-gradient(top, #11cdd4, #1199ee);
+  background-image: -ms-linear-gradient(top, #11cdd4, #1199ee);
+  background-image: -o-linear-gradient(top, #11cdd4, #1199ee);
+  background-image: linear-gradient(to bottom, #11cdd4, #1199ee);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 7px 19px 7px 19px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
